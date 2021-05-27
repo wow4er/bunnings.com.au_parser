@@ -1,0 +1,109 @@
+https://www.bunnings.com.au/products/tools/automotive-tools;Automotive Tools
+https://www.bunnings.com.au/products/tools/hand-tools;Hand Tools
+https://www.bunnings.com.au/products/tools/heavy-lifting-equipment;Heavy Lifting Equipment
+https://www.bunnings.com.au/products/tools/plumbing-tools;Plumbing Tools
+https://www.bunnings.com.au/products/tools/power-tools;Power Tools
+https://www.bunnings.com.au/products/tools/safety-equipment-workwear;Safety Equipment & Workwear
+https://www.bunnings.com.au/products/tools/tool-storage;Tool Storage
+https://www.bunnings.com.au/products/tools/tool-accessories;Tool Accessories
+https://www.bunnings.com.au/products/tools/welding-soldering-irons;Welding & Soldering Irons
+https://www.bunnings.com.au/products/building-hardware/building-boards;Building Boards
+https://www.bunnings.com.au/products/building-hardware/building-construction;Building Materials & Supplies
+https://www.bunnings.com.au/products/building-hardware/insulation;Insulation
+https://www.bunnings.com.au/products/building-hardware/ladders;Ladders
+https://www.bunnings.com.au/products/building-hardware/cement-concreting;Concrete & Cementing
+https://www.bunnings.com.au/products/building-hardware/doors;Doors
+https://www.bunnings.com.au/products/building-hardware/door-hardware;Door Hardware
+https://www.bunnings.com.au/products/building-hardware/windows;Windows
+https://www.bunnings.com.au/products/building-hardware/fencing;Fencing & Gates
+https://www.bunnings.com.au/products/building-hardware/fasteners-fixings;Fasteners & Fixings
+https://www.bunnings.com.au/products/building-hardware/general-hardware;General Hardware
+https://www.bunnings.com.au/products/building-hardware/security-safety-products;Security & Safety Products
+https://www.bunnings.com.au/products/building-hardware/roofing;Roofing
+https://www.bunnings.com.au/products/building-hardware/steel-aluminium-sections;Steel & Aluminium Sections
+https://www.bunnings.com.au/products/building-hardware/timber;Timber
+https://www.bunnings.com.au/products/garden/garden-decor;Garden Decor & Features
+https://www.bunnings.com.au/products/garden/letterboxes;Letterboxes
+https://www.bunnings.com.au/products/garden/gardening;Garden Supplies & Maintenance
+https://www.bunnings.com.au/products/garden/garden-clothing-safety-gear;Garden Clothing & Safety Gear
+https://www.bunnings.com.au/products/garden/garden-tools;Garden Tools
+https://www.bunnings.com.au/products/garden/landscaping;Landscaping Supplies
+https://www.bunnings.com.au/products/garden/lawn;Turf, Grass & Lawn Care
+https://www.bunnings.com.au/products/garden/outdoor-structures;Garden & Outdoor Structures
+https://www.bunnings.com.au/products/garden/pest-control;Pest Control
+https://www.bunnings.com.au/products/garden/plants;Plants
+https://www.bunnings.com.au/products/garden/seeds-propagation;Seeds & Propagation
+https://www.bunnings.com.au/products/garden/plant-pots-planters-baskets;Plant Pots, Planters & Baskets
+https://www.bunnings.com.au/products/garden/watering-accessories;Water Sprinklers & Irrigation Supplies
+https://www.bunnings.com.au/products/outdoor-living/barbecue;BBQs
+https://www.bunnings.com.au/products/outdoor-living/coolers;Coolers, Ice Boxes & Eskies
+https://www.bunnings.com.au/products/outdoor-living/sunscreen-insect-repellents;Sunscreen & Insect Repellents
+https://www.bunnings.com.au/products/outdoor-living/outdoor-furniture;Outdoor Furniture
+https://www.bunnings.com.au/products/outdoor-living/outdoor-heaters;Outdoor Heaters
+https://www.bunnings.com.au/products/outdoor-living/outdoor-play-equipment;Outdoor Play Equipment
+https://www.bunnings.com.au/products/outdoor-living/outdoor-shade;Outdoor Shade
+https://www.bunnings.com.au/products/outdoor-living/picnicware-water-storage;Picnicware & Water Storage
+https://www.bunnings.com.au/products/outdoor-living/swimming-pools-spa;Swimming Pools & Spas
+https://www.bunnings.com.au/products/outdoor-living/outdoor-activities;Outdoor Activities
+https://www.bunnings.com.au/products/outdoor-living/outdoor-living-inspiration;Outdoor Living Inspiration
+https://www.bunnings.com.au/products/kitchen/appliances;Kitchen Appliances
+https://www.bunnings.com.au/products/kitchen/benchtops;Benchtops
+https://www.bunnings.com.au/products/kitchen/kitchen-cabinets-pantries;Kitchen Cabinets & Pantries
+https://www.bunnings.com.au/products/kitchen/kitchen-taps-sinks;Kitchen Taps & Sinks
+https://www.bunnings.com.au/products/kitchen/splashbacks;Splashbacks
+https://www.bunnings.com.au/products/kitchen/bakeware;Bakeware
+https://www.bunnings.com.au/products/kitchen/cookware;Cookware
+https://www.bunnings.com.au/products/kitchen/kitchenware;Kitchenware
+https://www.bunnings.com.au/products/kitchen/servingware;Servingware
+https://www.bunnings.com.au/products/kitchen/small-appliances;Small Appliances
+https://www.bunnings.com.au/products/kitchen/tableware;Tableware
+https://www.bunnings.com.au/products/kitchen/kitchen-inspiration;Kitchen Inspiration
+https://www.bunnings.com.au/products/bathroom-plumbing/bathroom;Bathroom
+https://www.bunnings.com.au/products/bathroom-plumbing/plumbing;Plumbing
+https://www.bunnings.com.au/products/bathroom-plumbing/bathroom-plumbing-inspiration;Bathroom Inspiration
+https://www.bunnings.com.au/products/curtains-blinds/curtain-accessories;Curtain Accessories
+https://www.bunnings.com.au/products/curtains-blinds/curtains;Curtains
+https://www.bunnings.com.au/products/curtains-blinds/rails-tracks;Rails & Tracks
+https://www.bunnings.com.au/products/curtains-blinds/custom-made-blinds;Custom Made Blinds
+https://www.bunnings.com.au/products/curtains-blinds/indoor-blinds;Indoor Blinds
+https://www.bunnings.com.au/products/curtains-blinds/outdoor-blinds;Outdoor Blinds
+https://www.bunnings.com.au/products/curtains-blinds/curtains-blinds-inspiration;Curtains Inspiration
+https://www.bunnings.com.au/products/paint-decorating/paint;Paint
+https://www.bunnings.com.au/products/paint-decorating/wood-finishes;Wood Finishes
+https://www.bunnings.com.au/products/paint-decorating/paint-accessories;Painting Tools & Equipment
+https://www.bunnings.com.au/products/paint-decorating/craft;Craft Supplies
+https://www.bunnings.com.au/products/paint-decorating/wallpaper;Wallpaper
+https://www.bunnings.com.au/products/flooring-tiles/accessories-adhesives;Flooring Accessories
+https://www.bunnings.com.au/products/flooring-tiles/flooring-tools;Flooring Tools
+https://www.bunnings.com.au/products/flooring-tiles/carpet;Carpet
+https://www.bunnings.com.au/products/flooring-tiles/mats;Mats
+https://www.bunnings.com.au/products/flooring-tiles/rugs;Rugs
+https://www.bunnings.com.au/products/flooring-tiles/tiles;Tiles
+https://www.bunnings.com.au/products/flooring-tiles/timber-floors;Timber Floors
+https://www.bunnings.com.au/products/flooring-tiles/vinyl;Vinyl Flooring
+https://www.bunnings.com.au/products/flooring-tiles/flooring-tiles-inspiration;Flooring Inspiration
+https://www.bunnings.com.au/products/storage-cleaning/cleaning;Cleaning
+https://www.bunnings.com.au/products/storage-cleaning/laundry;Laundry
+https://www.bunnings.com.au/products/storage-cleaning/storage;Home Storage Solutions
+https://www.bunnings.com.au/products/storage-cleaning/storage-cleaning-inspiration;Storage Inspiration
+https://www.bunnings.com.au/products/lighting-electrical/air-conditioning-fans-heaters;Air Conditioning, Fans & Heaters
+https://www.bunnings.com.au/products/lighting-electrical/electrical;Electrical
+https://www.bunnings.com.au/products/lighting-electrical/lighting;Lighting
+https://www.bunnings.com.au/products/lighting-electrical/lighting-electrical-inspiration;Lighting Inspiration
+https://www.bunnings.com.au/products/smart-home/routers-modems;Routers & Modems
+https://www.bunnings.com.au/products/smart-home/smart-home-security;Smart Home Security
+https://www.bunnings.com.au/products/smart-home/smart-lighting-power;Smart Lighting & Power
+https://www.bunnings.com.au/products/hire-shop/carpet-cleaning-equipment;Carpet Cleaning Equipment
+https://www.bunnings.com.au/products/hire-shop/floor-sanding-equipment;Floor Sanding Equipment
+https://www.bunnings.com.au/products/hire-shop/general-hire-equipment;General Hire Equipment
+https://www.bunnings.com.au/products/hire-shop/trailer-vehicle-hire;Trailer & Vehicle Hire
+https://www.bunnings.com.au/products/indoor-living/home-entertainment;Home Entertainment
+https://www.bunnings.com.au/products/indoor-living/bedroom;Bedroom
+https://www.bunnings.com.au/products/indoor-living/dining-room;Dining Room
+https://www.bunnings.com.au/products/indoor-living/home-decor;Home Decor
+https://www.bunnings.com.au/products/indoor-living/living-room;Living Room
+https://www.bunnings.com.au/products/indoor-living/home-office;Home Office
+https://www.bunnings.com.au/products/indoor-living/kids-baby;Kids & Baby
+https://www.bunnings.com.au/products/indoor-living/pets;Pets
+https://www.bunnings.com.au/products/indoor-living/health-fitness;Health & Fitness
+https://www.bunnings.com.au/products/indoor-living/hallway;Hallway
